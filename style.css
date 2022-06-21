@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+   
+    text-align: center;
+    font-family: 'Joan', serif;
+  
+}
+h1{
+    
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #13e9e9;
+    color:#66BFBF ;
+    line-height: 1;
+    margin:100px auto 0 auto;
+ }
+ .top-container h2{
+    font-size: 2.5rem;
+    margin-top: 0;
+    color: #10ebeb;
+    
+ }
+ h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    line-height: 0;
+
+ }
+ h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+ }
+
+div {
+    
+    
+}
+#top-container{
+   
+    text-align: center;
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 30px;
+    width: 30%;
+    max-width: 13%;
+}
+.bottom-cloud{
+    position: absolute;
+     left: 100px;
+     width: 30%;
+     
+     max-width: 15%;
+     
+}
+.mountain{
+    width: 50%;
+    
+}
+.profile img{
+    width: 20%;
+}
+#middle-container{
+ 
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 50px auto;
+    line-height: 2;
+}
+
+ .coding{
+    width: 25%;
+    float: left;
+    margin-top: 2.5rem;
+    margin-right: 4rem;
+    
+ }   
+ .chillies{
+    width: 25%;
+    float: right;
+    margin-top: auto;
+    margin-left: 10%;
+    
+   
+ }
+ 
+ 
+.bottom-container{
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+    background-color: #66BFBF;
+    height: 100px;
+    
+}
+.bottom-container p{
+    position: relative;
+    bottom: 5px;
+    color: #EAF6F6;
+    
+    
+}
+.bottom-container a:hover{
+    color: red;
+}
+
+.contact-me{
+    position: relative;
+    top: -0px;
+    bottom: px;
+    font-size: 20px;
+}
+.contact-me p{
+    margin: auto auto 80px auto;
+}
+.contact-me .btn{
+   bottom: 20px;
+    position: relative;
+}
+.btn{
+   padding: 10px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    margin:50px auto 100px auto;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contact-me a:hover{
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer-linkf{
+    text-decoration: none;
+    color: #11999E;
+    right: 10px;
+    position: relative;
+    color: #11999E;
+}
+.footer-links{
+    text-decoration: none;
+    color: #11999E;
+    margin: auto 50px 10px 50px;
+}
+.footer-linkt{
+    text-decoration: none;
+    color: #11999E;
+    right: 10px;
+}
+
